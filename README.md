@@ -1,21 +1,35 @@
-# Next.js template
+# 🏥 Hospital Management System
 
-This is a Next.js template with shadcn/ui.
+> 🚧 **Under Construction** — This project is actively being developed. Features, structure, and APIs may change without notice.
 
-## Adding components
+A modern hospital management system built to streamline patient records, appointments, staff management, and hospital operations.
 
-To add components to your app, run the following command:
+---
 
-```bash
-npx shadcn@latest add button
-```
+## 🛠️ Tech Stack
 
-This will place the ui components in the `components` directory.
+| Layer | Technology |
+|---|---|
+| Framework | [Next.js](https://nextjs.org/) |
+| Language | [TypeScript](https://www.typescriptlang.org/) |
+| Styling | [Tailwind CSS](https://tailwindcss.com/) |
+| ORM | [Prisma](https://www.prisma.io/) |
+| Database / Backend | [Supabase](https://supabase.com/) |
 
-## Using components
+---
 
-To use the components in your app, import them as follows:
+## ✨ Planned Features
 
-```tsx
-import { Button } from "@/components/ui/button";
-```
+- [ ] Patient registration & records management
+- [ ] Doctor & staff scheduling
+- [ ] Appointment booking system
+- [ ] Role-based authentication (Admin, Doctor, Staff, Patient)
+- [ ] Billing & invoicing
+- [ ] Department & ward management
+- [ ] Real-time notifications
+- [ ] Dashboard & analytics
+
+> ⚠️ This list will grow as development progresses.
+---
+
+**Status:** 🚧 In active development — not ready for production use.
